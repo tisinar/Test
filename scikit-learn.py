@@ -21,9 +21,6 @@ confusion_matrix(ytest,y_model)
 mean_squared_error(ytest,y_model)
 
 
-import tensorflow as tf
-from tensorflow import keras
-import torch as pt
 
 
 
